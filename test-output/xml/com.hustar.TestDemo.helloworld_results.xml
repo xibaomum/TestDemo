@@ -4,10 +4,10 @@
            failures="0"
            errors="0"
            skipped="0"
-           time="3.613">
+           time="4.366">
   <properties />
   
   
-            <testcase name="commitkeyword" time="3.613" classname="com.hustar.TestDemo.helloworld" />
+            <testcase name="commitkeyword" time="4.366" classname="com.hustar.TestDemo.helloworld" />
       
 </testsuite>
