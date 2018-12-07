@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Test1"
+           tests="1"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="2.794">
+  <properties />
+  
+  
+            <testcase name="commitkeyword" time="2.794" classname="com.hustar.TestDemo.pqms_test_demo" />
+      
+</testsuite>
